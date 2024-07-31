@@ -1,0 +1,5 @@
+bookName: "book"
+bookNameColor: "GOLD"
+bookRadius: 3 # Радиус удара молнии в блоках (круг)
+bookCustomModelData: 3000 # Для ресурс пака (кастом. дата модели)
+strikeLightingsCount: 10

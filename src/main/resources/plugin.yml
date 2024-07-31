@@ -1,0 +1,4 @@
+name: l4ksItems
+version: '1.0'
+main: com.loginor4ik.l4ksItems.L4ksCustomItems
+api-version: '1.21'
